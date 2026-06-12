@@ -44,7 +44,7 @@ Sahayak AI allows users to ask simple questions and provides:
 ---
 
 ## Logo
-![Sahayak AI](assets/logo.png)
+![Sahayak AI](d2b11be5-f01e-4707-bf36-2be9586a0372_1781248965368.png)
 
 ---
 
