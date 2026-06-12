@@ -34,12 +34,12 @@ Sahayak AI allows users to ask simple questions and provides:
 ---
 
 ## Screenshots
-*(To be added)*
+![Sahayak AI](UI.png)
 
 ---
 
 ## Architecture
-*(To be added)*
+![Sahayak AI](Architecture.png)
 
 ---
 
